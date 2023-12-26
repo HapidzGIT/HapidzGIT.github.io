@@ -1841,7 +1841,7 @@ textarea.form-control {
   padding: 10px 10px 0 0;
   resize: none;
   border: none;
-  border-bottom: 1px solid #E3E3E3;
+  border-bottom: 2px solid #E3E3E3;
   border-radius: 0;
   line-height: 2; }
   textarea.form-control:focus, textarea.form-control:active {
